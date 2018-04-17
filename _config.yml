@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Feng-Bing
-email: contact@feng-bing.com
+email: monica_fb@zju.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
         Feng-Bing is a professor of sociology at Zhejiang University
         in Hangzhou, China.
