@@ -86,14 +86,14 @@ canvas {
     }
   }
   &:hover {
-    border-color: $green;
+    border-color: $yellow;
     &:before {
-      border-color: $green;
+      border-color: $yellow;
     }
     span {
-      border-color: $green;
+      border-color: $yellow;
       &:before {
-        border-color: $green;
+        border-color: $yellow;
       }
     }
   }
@@ -131,10 +131,10 @@ canvas {
     background: $white;
   }
   &:hover {
-    border-color: $green;
+    border-color: $yellow;
     &:before,
     &:after {
-      border-color: $green;
+      border-color: $yellow;
     }
   }
 }
@@ -354,7 +354,7 @@ canvas {
         left: 0;
         right: 0;
         bottom: 0;
-        background: $green;
+        background: $yellow;
         -webkit-transform: scaleY(0);
         transform: scaleY(0);
         -webkit-transform-origin: 50% 100%;
@@ -421,7 +421,7 @@ canvas {
       -ms-transform: none;
       -o-transform: none;
       transform: none;
-      background: $green;
+      background: $yellow;
       left: 0;
       width: 200px;
     }
@@ -495,7 +495,7 @@ canvas {
       color: darken($white, 40);
     }
     .date {
-      color: #399f62;
+      color: $yellow;
       float: right;
       display: inline-block;
       font-size: 15px;
@@ -506,7 +506,7 @@ canvas {
       display: inline-block;
       max-width: 75%;
       &:hover span {
-        border-bottom: 1px dotted $green;
+        border-bottom: 1px dotted $yellow;
       }
     }
   }
@@ -565,7 +565,7 @@ canvas {
   }
   a:not(.btn):not(.pagination_pager) {
     color: #399f62;
-    border-bottom: 1px dotted $green;
+    border-bottom: 1px dotted $yellow;
   }
   ul,
   ol {
@@ -602,7 +602,7 @@ canvas {
     font-size: 15px;
   }
   .section-line {
-    color: $green;
+    color: $yellow;
     position: relative;
     display: -webkit-box;
     display: -moz-box;
@@ -624,7 +624,7 @@ canvas {
       margin-left: 10px;
     }
     a {
-      color: $green;
+      color: $yellow;
       &:hover {
         color: #4dbe7a;
       }
@@ -856,7 +856,7 @@ canvas {
       border-radius: 0 4px 4px 0;
     }
     &:hover {
-      background-color: $green;
+      background-color: $yellow;
       color: $white !important;
     }
     &.disabled {
