@@ -1,9 +1,15 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+title: Feng-Bing
+email: monica_fb@zju.edu.cn
+description: >- # this means to ignore newlines until "baseurl:"
+        Feng-Bing is a professor of sociology at Zhejiang University
+        in Hangzhou, China.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: logo.png                                       # Site logo
 locale: en_US
+twitter_username:
+github_username:
 
 # Left Block Images
 background:
