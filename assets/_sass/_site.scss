@@ -488,8 +488,15 @@ canvas {
     .menu-button {
         color: $gray;
         transition-duration: 0.3s;
+        display: inline-block;
+        text-align: center;
+        padding-left: 5px;
+        padding-right: 5px;
         i {
             font-size: 36px;
+        }
+        p {
+            padding: 5px;
         }
     }
     .menu-button:hover {
