@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
         Feng-Bing is a professor of sociology at Zhejiang University
         in Hangzhou, China.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://feng-bing.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: logo.png                                       # Site logo
 locale: en_US
 
