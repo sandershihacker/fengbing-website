@@ -3,7 +3,7 @@ layout: page
 title: Tag Archive
 description: "An archive of posts sorted by tag."
 permalink: /tags.html
-share: false
+parent: Posts
 ---
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}

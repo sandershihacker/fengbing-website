@@ -1,0 +1,34 @@
+.menu-buttons {
+    margin: 15px;
+    position: absolute;
+    border-radius: 10px;
+    top: 0;
+    right: 0;
+    transition-duration: 0.3s;
+    .menu-button {
+        cursor: pointer;
+        color: $gray;
+        transition-duration: 0.3s;
+        display: block;
+        text-align: center;
+        padding: 10px;
+        width: 140px;
+        i {
+            font-size: 24px;
+        }
+        p {
+            font-size: 14px;
+            padding: 3px;
+        }
+    }
+    .menu-button:hover {
+        color: $yellow;
+    }
+    .menu-buttons-hidden {
+        display: none;
+    }
+}
+
+.dark-background {
+    background-color: rgba(0, 0, 0, 0.5);
+}
