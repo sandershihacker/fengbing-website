@@ -2,8 +2,7 @@
 title: Feng-Bing
 email: monica_fb@zju.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-        Feng-Bing is a professor of sociology at Zhejiang University
-        in Hangzhou, China.
+        Feng-Bing is an associate professor of sociology at Zhejiang University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://feng-bing.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: logo.png                                       # Site logo
