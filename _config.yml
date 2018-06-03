@@ -7,6 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://feng-bing.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: logo.png                                       # Site logo
+profile-picture: profile.jpg
 locale: en_US
 
 # Left Block Images

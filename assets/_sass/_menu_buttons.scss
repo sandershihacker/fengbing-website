@@ -30,6 +30,28 @@
     }
 }
 
+#more-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+    color: $gray;
+    transition-duration: 0.3s;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    i {
+        font-size: 24px;
+    }
+    p {
+        font-size: 14px;
+        padding: 3px;
+    }
+}
+#more-button:hover {
+    color: $yellow;
+}
+
 .dark-background {
     background-color: rgba(0, 0, 0, 0.5);
 }

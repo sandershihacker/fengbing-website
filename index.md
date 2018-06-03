@@ -3,8 +3,9 @@ layout: home
 ---
 # About Feng-Bing
 
-Dr. Feng-Bing is an associate Professor of sociology at School of International
-Studies of Zhejiang University, China. She obtained her first degree in
+Dr. Feng-Bing is an associate Professor of sociology at the
+[School of International Studies](http://www.sis.zju.edu.cn/sisenglish/) of
+[Zhejiang University](http://www.zju.edu.cn), China. She obtained her first degree in
 English Language and Literature from Luoyang Foreign Studies University in 1982,
 did her post-graduate studies in American Studies at Beijing Foreign Studies
 University from 1988 to 1990, and received her doctoral degree in Sociology from

@@ -2,9 +2,11 @@
 
 
 $(document).ready(function() {
-  $("#more-button").click(function() {
-      console.log("clicked");
-      $('.menu-buttons-hidden').fadeToggle();
-      $('.menu-buttons').toggleClass("dark-background");
-  });
+    $.toggleMenu = function() {
+        $('#more-button').toggle();
+        $('.menu-buttons-hidden').fadeToggle();
+        $('.menu-buttons').toggleClass("dark-background");
+    }
+    $('#more-button').click($.toggleMenu);
+    $('#close-button').click($.toggleMenu);
 });
